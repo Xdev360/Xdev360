@@ -9,8 +9,8 @@ Founder of [Wintech Studio](https://wintechstudio.com). Building since 2020, 20+
 | Project | What it is | Role |
 | --- | --- | --- |
 | [Virelle Wellness Hub](https://virellewellnesshub.com) | Online store for supplements, skincare, fragrance and whole foods. 100+ products, with an admin panel. | Design, build, project lead |
-| [Mylo](https://staymylo.com) | A goal app where getting things done feels like a game. Designed for iOS, Android, desktop and web. | Product, brand, build |
-| [Wintech Templates](https://wintechstudio.com) | Website builder that puts small businesses online at name.wintechstudio.com. | Product, design, build |
+| [Mylo](https://staymylo.com) | A goal app where getting things done feels like a game. Designed for iOS, Android, desktop and web. Code in [mylo](https://github.com/Xdev360/mylo). | Product, brand, build |
+| [Wintech Templates](https://wintechstudio.com) | Website builder that puts small businesses online at name.wintechstudio.com. Code in [wintech-templates](https://github.com/Xdev360/wintech-templates). | Product, design, build |
 | [Cleartext](https://cleartextapp.vercel.app) | Turns raw wallet signing requests into plain language before you approve them. | Design, build |
 | [Wintech Studio site](https://wintechstudio.com) | Studio website and case studies. Code in [wintechstudio](https://github.com/Xdev360/wintechstudio). | Design, build |
 
