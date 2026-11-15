@@ -22,9 +22,9 @@ Design → Build → AI → Live product. One person from the first Figma frame 
 
 ### Stack
 
-**Design:** Figma, FigJam, motion and brand identity
-**Build:** Next.js, React, TypeScript, Tailwind CSS, Supabase, Vercel
-**AI and automation:** Cursor, Claude, n8n
+- **Design:** Figma, FigJam, motion and brand identity
+- **Build:** Next.js, React, TypeScript, Tailwind CSS, Supabase, Vercel
+- **AI and automation:** Cursor, n8n, AI assistants
 
 ### Contact
 
